@@ -1490,9 +1490,18 @@ section.lazy-placeholder:after {
   -o-transform: none;
   transform: none;
 }
+.cid-rSDhZLXnKg {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rSDhZLXnKg .mbr-text,
+.cid-rSDhZLXnKg blockquote {
+  color: #767676;
+}
 .cid-rSxmf2zYki {
   background: #a3c43b;
-  padding-top: 60px;
+  padding-top: 45px;
   padding-bottom: 60px;
   background: linear-gradient(0deg, #a3c43b, #ffffff);
 }
